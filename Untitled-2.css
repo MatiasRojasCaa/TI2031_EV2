@@ -1,0 +1,65 @@
+button{
+  width: 490px;
+  display: block;
+  border: none;
+  text-align: center;
+  margin: auto;
+}
+
+.btn-primary{
+  width: 490px;
+  display: block;
+  border: none;
+  text-align: center;
+  margin: auto;
+}
+
+.btn-success{
+  width: 490px;
+  display: block;
+  border: none;
+  text-align: center;
+  margin: auto;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #f0f2f5 !important;
+}
+
+
+.line{
+  border-top: 1px solid #222 ;
+  opacity: 0.2;
+}
+
+div {
+  font-size-adjust: 0.58;
+}
+
+.img{
+  margin-top: -40vh;
+  margin-left: 300px;
+  width: 550px;
+}
+
+.shadow.p-3{
+  margin-top: 30vh;
+}
+
+h3{
+  font-size: 20px;
+  font-weight: 600;
+  word-spacing: 3px;
+  margin-left: 30px;
+}
+
+.sub-link h6{
+  width: 450px;
+  position: relative;
+  color: black;
+
+}
